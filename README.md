@@ -15,3 +15,7 @@ This collection of projects demonstrates end-to-end data analysis skills applied
 **Spotify Analysis:** Examined music features including tempo, energy, danceability, and popularity to uncover listening patterns, genre preferences, and trends in streaming behavior.
 
 **Formula 1 Analysis**: Analyzed racing data to evaluate driver and team performance, race strategies, and seasonal outcomes, highlighting key factors influencing success in motorsports.
+
+**SQL Projects:** This project applies SQL queries on multiple databases including World Population Data, Bank Churn Modelling, and IPL 2023 Matches. It explores population statistics, customer banking behavior, and cricket match outcomes by writing queries for counts, averages, maximum/minimum values, and group-based analysis. The project demonstrates skills in data extraction, aggregation, and relational database analysis for real-world datasets.
+
+**Tableau Projects:** This Tableau project uses three datasets—COVID-19 Global Statistics, Indian Agriculture Data, and HR Analytics—to create interactive visualizations and dashboards. The project demonstrates data analysis skills by exploring pandemic trends, agricultural insights, and workforce patterns through multiple worksheets and dashboards. It highlights the ability to collect data from Kaggle, clean and visualize it in Tableau, and design meaningful dashboards for data-driven decision-making.
