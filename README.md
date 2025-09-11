@@ -18,59 +18,48 @@ This collection of projects demonstrates end-to-end data analysis skills applied
 
 **SQL Projects:** This project applies SQL queries on multiple databases including World Population Data, Bank Churn Modelling, and IPL 2023 Matches. It explores population statistics, customer banking behavior, and cricket match outcomes by writing queries for counts, averages, maximum/minimum values, and group-based analysis. The project demonstrates skills in data extraction, aggregation, and relational database analysis for real-world datasets.
 
-**Tableau Projects:** This Tableau projects uses three datasets—COVID-19 Global Statistics, Indian Agriculture Data, and HR Analytics—to create interactive visualizations and dashboards. The project demonstrates data analysis skills by exploring pandemic trends, agricultural insights, and workforce patterns through multiple worksheets and dashboards. It highlights the ability to collect data from Kaggle, clean and visualize it in Tableau, and design meaningful dashboards for data-driven decision-making.
-📊 Project Descriptions
-
-Insurance Data Analysis
+**Tableau Projects Descriptions**
+**Insurance Data Analysis**
 
 Built interactive dashboards to analyze customer demographics, insurance claims, and premium distribution.
-
 Identified risk patterns and trends to support decision-making in the insurance sector.
 
-E-Commerce Data Analysis
+**E-Commerce Data Analysis**
 
 Visualized sales, revenue, customer behavior, and product performance.
-
 Highlighted top-selling categories, seasonal demand, and profit trends using KPIs and charts.
 
-Smartwatch Data Analysis
+**Smartwatch Data Analysis**
 
 Analyzed health and fitness data including heart rate, calories, and activity patterns.
-
 Designed dashboards to track user performance and detect lifestyle trends.
 
-Sales Data Dashboard
+**Sales Data Dashboard**
 
 Developed dashboards for sales revenue, regional performance, and product-level analysis.
-
 Enabled tracking of monthly targets vs. actuals and profit contributions.
 
-IMDb Movie Analysis
+**IMDb Movie Analysis**
 
 Explored trends in movies by genre, ratings, and box office performance.
-
 Built dashboards showing top-rated movies, directors, and year-wise performance.
 
-Telco Customer Churn Analysis
+**Telco Customer Churn Analysis**
 
 Created dashboards to analyze customer churn drivers such as tenure, contract type, and payment methods.
-
 Highlighted high-risk customer segments to improve retention strategies.
 
-Crop Production Analysis
+**Crop Production Analysis**
 
 Used agricultural datasets to visualize crop yields across states and years.
-
 Built dashboards showing crop-wise production, seasonal patterns, and area utilization.
 
-Bird Strike Data Analysis
+**Bird Strike Data Analysis**
 
 Analyzed aviation safety data to study bird strike incidents.
-
 Built dashboards showing strike frequency by aircraft type, location, and altitude.
 
-COVID-19 Dataset Analysis
+**COVID-19 Dataset Analysis**
 
 Visualized global COVID-19 cases, recoveries, and fatalities.
-
 Created dashboards to track country-wise trends and compare pandemic impact over time.
